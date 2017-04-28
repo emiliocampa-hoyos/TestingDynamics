@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Register xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/crm/2011/tools/pluginregistration">
+  <Solutions>
+    <Solution Assembly="Plugins2.dll" Id="ca3a9a89-025b-4e7f-b44c-03af5549db39" IsolationMode="Sandbox" SourceType="Database">
+      <PluginTypes>
+        <clear />
+        <Plugin Description="Plug-in to Create of contact" FriendlyName="Create of contact" Name="Plugins2.PreValidatecontactCreate" Id="69717ed0-d35a-4bdc-a1f6-38623cd52c75" TypeName="Plugins2.PreValidatecontactCreate">
+          <Steps>
+            <clear />
+            <Step AsyncAutoDelete="false" Name="Create of contact" Description="Create of contact" Id="2b65180e-7d2b-e711-810e-c4346bac1938" ImpersonatingUserId="00000000-0000-0000-0000-000000000000" MessageName="Create" Mode="Synchronous" PrimaryEntityName="contact" Rank="1" Stage="PreOutsideTransaction" SupportedDeployment="ServerOnly" MessageEntityId="00000000-0000-0000-0000-000000000000">
+              <Images />
+            </Step>
+          </Steps>
+        </Plugin>
+      </PluginTypes>
+    </Solution>
+  </Solutions>
+  <XamlWorkflows />
+</Register>
