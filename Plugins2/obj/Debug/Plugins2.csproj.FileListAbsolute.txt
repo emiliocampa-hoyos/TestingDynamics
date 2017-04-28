@@ -1,0 +1,9 @@
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\Plugins2\bin\Debug\Plugins2.dll
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\Plugins2\bin\Debug\Plugins2.pdb
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\Plugins2\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\Plugins2\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\Plugins2\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\Plugins2\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\Plugins2\obj\Debug\Plugins2.csprojResolveAssemblyReference.cache
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\Plugins2\obj\Debug\Plugins2.dll
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\Plugins2\obj\Debug\Plugins2.pdb

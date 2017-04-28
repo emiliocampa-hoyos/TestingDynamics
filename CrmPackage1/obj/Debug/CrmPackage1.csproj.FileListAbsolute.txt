@@ -1,0 +1,9 @@
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\CrmPackage1\bin\Debug\Plugins2.CrmPackage1.dll
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\CrmPackage1\bin\Debug\Plugins2.CrmPackage1.pdb
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\CrmPackage1\bin\Debug\Plugins2.dll
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\CrmPackage1\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\CrmPackage1\bin\Debug\Plugins2.pdb
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\CrmPackage1\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\CrmPackage1\obj\Debug\CrmPackage1.csprojResolveAssemblyReference.cache
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\CrmPackage1\obj\Debug\Plugins2.CrmPackage1.dll
+C:\Users\ecampa\Documents\Visual Studio 2015\Projects\Plugins2\CrmPackage1\obj\Debug\Plugins2.CrmPackage1.pdb
