@@ -58,7 +58,7 @@ namespace Plugins2
                 throw new InvalidPluginExecutionException("localContext");
             }
 
-            Console.WriteLine("Contact got created!");
+            Console.WriteLine("Contact got created, this is a change!");
             // TODO: Implement your custom Plug-in business logic.
         }
     }
